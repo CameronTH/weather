@@ -1,3 +1,3 @@
 # weather
 
-Weather app project from The Odin Project to pull data from a weather API
+Weather app project for The Odin Project to pull data from a weather API.
